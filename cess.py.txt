@@ -1,3 +1,7 @@
 #newtest#
 #push#
+<<<<<<< HEAD
 #masterbranch#
+=======
+#testbranch#
+>>>>>>> test
