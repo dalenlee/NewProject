@@ -1,6 +1,3 @@
 #newtest#
-#push#
-<<<<<<< HEAD
-#masterbranch#
-=======
-testbranchnobomnit
+#keep testbranchnobomnit#
+#add new checkout#
